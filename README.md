@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/copypasteearth/KotlinWikipediaSearch.svg)](https://jitpack.io/#copypasteearth/KotlinWikipediaSearch)
 ```groovy
 allprojects {
 		repositories {
