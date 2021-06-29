@@ -1,4 +1,4 @@
-'''kotlin
+```kotlin
     GlobalScope.launch{
                 withContext(Dispatchers.IO){
                     val kotlinWiki = KotlinWiki()
@@ -14,4 +14,4 @@
                     }
                 }
             }
-'''
+```
